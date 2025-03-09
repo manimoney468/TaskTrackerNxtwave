@@ -4,6 +4,9 @@ A modern, responsive task management application built with React, TypeScript, a
 
 ![Task Tracker App](https://imgur.com/a/bYa2pMk)
 
+![image](https://github.com/user-attachments/assets/6f926ff6-e8ab-4ae6-90d9-1cc88d5536d6)
+
+
 https://splendorous-cobbler-180a4b.netlify.app/
 
 ## Features
